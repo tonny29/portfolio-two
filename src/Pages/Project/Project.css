@@ -1,0 +1,33 @@
+.accordionFull{
+  width: 90%;
+  margin-left: 7%;
+}
+.mainContent {
+  margin: 5% 5% 0 18%;
+  ;
+  text-align: justify;
+}
+
+.projectTopicHeader h6 {
+  font-weight: 900;
+  color: rgb(66, 12, 12);
+  font-size: 15px;
+  padding: 0px;
+  margin: 0px;
+}
+
+.liveSiteBtn {
+  margin-top: 20px;
+  padding: 6px 15px;
+  background-color: rgb(66, 12, 12);
+  border: 3px solid rgba(232, 188, 188, 0.697);
+  border-radius: 5px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: white;
+}
+
+.liveSiteBtn:hover {
+  background-color: rgb(159, 88, 88);
+  border: 3px solid rgba(66, 12, 12, 0.679);
+}
